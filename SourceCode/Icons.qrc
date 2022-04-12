@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>QMF_Filter_Bank.png</file>
+    </qresource>
+</RCC>
